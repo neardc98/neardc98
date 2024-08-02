@@ -48,4 +48,3 @@ Welcome to my GitHub profile! I’m passionate about software development, open 
 ## GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neardc98&layout=compact&theme=radical)
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=neardc98&theme=github_dark)
