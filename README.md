@@ -1,5 +1,6 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=%237E3ACE&&width=720&lines=Hi%2C+I'm+Near.++I+am+learning+to+program)](https://git.io/typing-svg)
+<div align="center">
 
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=%237E3ACE&&width=720&lines=Hi%2C+I'm+Near.++I+am+learning+to+program)](https://git.io/typing-svg)
 
 Welcome to my GitHub profile! I’m passionate about software development, open source, and continuous learning. Here’s a bit more about me:
 
@@ -9,6 +10,7 @@ Welcome to my GitHub profile! I’m passionate about software development, open 
 - 💬 Ask me about...
 - 😄 Pronouns: [your pronouns]
 - ⚡ Fun fact: Nothing
+
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/89845641/218791674-c52db856-24d2-429f-8867-170c365730d1.svg)
 
 ## Skills
@@ -44,7 +46,8 @@ Welcome to my GitHub profile! I’m passionate about software development, open 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fedora/fedora-original.svg" width="40" height="40" alt="Fedora"/>
 </p>
 
-
 ## GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neardc98&layout=compact&theme=radical)
+
+</div>
