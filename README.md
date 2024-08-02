@@ -36,6 +36,7 @@
     <td>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+         <img src="https://skillicons.dev/icons?i=firebase,mongo" />
       </a>
     </td>
     <td>
