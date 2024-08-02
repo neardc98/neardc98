@@ -53,8 +53,21 @@
   </tr>
 </table>
 
-## GitHub Stats
+## Github Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neardc98&layout=compact&theme=radical)
+<p align="center">
+    <a href="https://github-readme-activity-graph.vercel.app/graph?username=neardc98&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=neardc98&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+    </a>
+</p>
+
+<br />
+<p align="center">
+    <a href="https://github-readme-stats.vercel.app/api?username=neardc98&rank_icon=percentile&count_private=true&hide_border=true&theme=prussian" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api?username=neardc98&rank_icon=github&count_private=true&hide_border=true&theme=prussian" alt="Sunshine's GitHub stats"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=neardc98&rank_icon=percentile&count_private=true&hide_border=true&theme=prussian" alt="Sunshine's GitHub stats"/> 
+        <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neardc98&layout=compact&theme=prussian&show_icons=true&hide_border=true&exclude_repo=Soruko"/>
+    </a>
+</p>
 
 </div>
