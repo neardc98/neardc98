@@ -49,8 +49,10 @@
     </td>
   </tr>
 </table>
+<p align="center">
+   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%0cf&size=35&center=true&vCenter=true&width=850&duration=1500&pause=1000&lines=+Github+Stats" width="auto" />
+   </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%0cf&size=35&center=true&vCenter=true&width=850&duration=1500&pause=1000&lines=+Github+Stats" width="auto"
 
 <p align="center">
     <a href="https://github-readme-activity-graph.vercel.app/graph?username=neardc98&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo">
