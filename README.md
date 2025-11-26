@@ -17,8 +17,8 @@
   </tr>
   <tr>
     <td>
-        <img src="https://skillicons.dev/icons?i=javascript,typescript,react" />
-        <img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
+        <img src="https://skillicons.dev/icons?i=javascript,typescript" />
+        <img src="https://skillicons.dev/icons?i=html,bootstrap" />
     </td>
     <td>
         <img src="https://skillicons.dev/icons?i=php,cs" />
@@ -33,11 +33,8 @@
          <img src="https://skillicons.dev/icons?i=firebase,mongo" />
     </td>
     <td>
-        <img src="https://skillicons.dev/icons?i=git,github" />
-        <img src="https://skillicons.dev/icons?i=docker,vscode" />
-        <img src="https://skillicons.dev/icons?i=discord,linux" />
-        <img src="https://skillicons.dev/icons?i=arch,notion" />
-        <img src="https://skillicons.dev/icons?i=bash,visualstudio" />
+        <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
+        <img src="https://skillicons.dev/icons?i=linux,notionbash,visualstudio" />
     </td>
   </tr>
 </table>
