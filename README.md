@@ -21,31 +21,23 @@
         <img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
     </td>
     <td>
-      <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=php,cs" />
         <img src="https://skillicons.dev/icons?i=python,java" />
-      </a>
     </td>
     <td>
-      <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=androidstudio,react" />
         <img src="https://skillicons.dev/icons?i=swift" />
-      </a>
     </td>
     <td>
-      <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=mysql,postgres" />
          <img src="https://skillicons.dev/icons?i=firebase,mongo" />
-      </a>
     </td>
     <td>
-      <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=git,github" />
         <img src="https://skillicons.dev/icons?i=docker,vscode" />
         <img src="https://skillicons.dev/icons?i=discord,linux" />
         <img src="https://skillicons.dev/icons?i=arch,notion" />
         <img src="https://skillicons.dev/icons?i=bash,visualstudio" />
-      </a>
     </td>
   </tr>
 </table>
