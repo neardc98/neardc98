@@ -17,7 +17,7 @@
   </tr>
   <tr>
     <td>
-        <img src="https://skillicons.dev/icons?i=javascript,typescript" />
+        <img src="https://skillicons.dev/icons?i=javascript,typescript,react" />
         <img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
     </td>
     <td>
