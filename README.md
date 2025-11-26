@@ -34,7 +34,7 @@
     </td>
     <td>
         <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
-        <img src="https://skillicons.dev/icons?i=linux,notionbash,visualstudio" />
+        <img src="https://skillicons.dev/icons?i=linux,notion,bash,visualstudio" />
     </td>
   </tr>
 </table>
